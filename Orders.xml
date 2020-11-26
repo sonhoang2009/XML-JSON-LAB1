@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BookOrder OrderNo="1234">
+    <OrderDate>2001-01-01</OrderDate>
+    <CUSTOMER>
+        <TITLE>Mr.</TITLE>
+        <FirstName>Graeme</FirstName>
+        <LastName>Malcoml</LastName>
+    </CUSTOMER>
+    <Book>
+        <mybook>http://www.superduperbigco.com/</mybook>
+        <Title>Treasure Island</Title>
+        <Author>Robert Louis Stevenson</Author>
+    </Book>
+</BookOrder>

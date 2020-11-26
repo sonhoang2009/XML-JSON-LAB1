@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT xmlns="">
+    <CUSTOMER>
+        <NAME>
+            <LASTNAME>Smith</LASTNAME>
+            <FIRSTNAME>Sam</FIRSTNAME>
+        </NAME>
+        <DATE>Octorber 15, 2003</DATE>
+        <ORDERS>
+            <ITEM>
+                <PRODUCT>Tomatoes</PRODUCT>
+                <NUMBER>8</NUMBER>
+                <PRICE>$1.25</PRICE>
+            </ITEM>
+        </ORDERS>
+    </CUSTOMER>
+    <CUSTOMER>
+        <NAME>
+            <LASTNAME>Jones</LASTNAME>
+            <FIRSTNAME>Polly</FIRSTNAME>
+        </NAME>
+        <DATE>October 20, 2003</DATE>
+        <ORDERS>
+            <ITEM>
+                <PRODUCT>Bread</PRODUCT>
+                <NUMBER>12</NUMBER>
+                <PRICE>$14.95</PRICE>
+            </ITEM>
+            <ITEM>
+                <PRODUCT>Apples</PRODUCT>
+                <NUMBER>6</NUMBER>
+                <PRICE>$1.50</PRICE>
+            </ITEM>
+        </ORDERS>
+    </CUSTOMER>
+
+</DOCUMENT>
